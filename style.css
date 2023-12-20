@@ -16,6 +16,8 @@
     font-weight: 100 900;
 }
 
+/* RESET */
+
 *,
 *::before,
 *::after {
@@ -39,6 +41,8 @@ svg {
     max-width: 100%;
     display: block;
 }
+
+/* DEVELOPMENT */
 
 html,
 body {
