@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/berealisss/qr-code-component-main.git)
+- Live Site URL: [Add live site URL here](https://berealisss.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -72,6 +72,8 @@ body {
 ### Continued development
 
 Need to keep improving on determining a layout.
+
+Struggling with flexbox a little. Would like to have some more opportunities to use it.
 
 ### Useful resources
 
